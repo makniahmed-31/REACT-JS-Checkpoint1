@@ -1,0 +1,12 @@
+.container{
+  border:black 2px solid;
+}
+label.form-label{
+  font-style: italic;
+  color: blue;
+  text-decoration: underline;
+}
+label.form-check-label{
+  color: red;
+  font-style: oblique;
+}
